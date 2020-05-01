@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\c\day03\day03\源.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\c\day03\day03\源.cpp(16,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day03\day03\源.cpp(17,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day03\day03\源.cpp(18,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+  day03.vcxproj -> E:\c\day03\Debug\day03.exe

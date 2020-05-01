@@ -1,0 +1,22 @@
+﻿  源.cpp
+E:\c\day02\day02\源.cpp(30,10): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(30,10): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 1 冲突
+E:\c\day02\day02\源.cpp(34,10): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(34,10): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 1 冲突
+E:\c\day02\day02\源.cpp(38,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+E:\c\day02\day02\源.cpp(38,9): warning C4313: “printf”: 格式字符串中的“%X”与“int (*)[4]”类型的参数 1 冲突
+E:\c\day02\day02\源.cpp(38,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int (*)[4]”
+E:\c\day02\day02\源.cpp(38,9): warning C4313: “printf”: 格式字符串中的“%X”与“int (*)[4]”类型的参数 2 冲突
+E:\c\day02\day02\源.cpp(38,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int (*)[4]”
+E:\c\day02\day02\源.cpp(38,9): warning C4313: “printf”: 格式字符串中的“%X”与“int (*)[4]”类型的参数 3 冲突
+E:\c\day02\day02\源.cpp(39,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(39,9): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 1 冲突
+E:\c\day02\day02\源.cpp(39,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(39,9): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 2 冲突
+E:\c\day02\day02\源.cpp(39,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(39,9): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 3 冲突
+E:\c\day02\day02\源.cpp(39,58): warning C4474: printf: 格式字符串中传递的参数太多
+E:\c\day02\day02\源.cpp(39,58): message : 占位符和其参数预计 3 可变参数，但提供的却是 4 参数
+E:\c\day02\day02\源.cpp(46,10): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+E:\c\day02\day02\源.cpp(46,10): warning C4313: “printf”: 格式字符串中的“%X”与“int *”类型的参数 1 冲突
+  day02.vcxproj -> E:\c\day02\x64\Debug\day02.exe

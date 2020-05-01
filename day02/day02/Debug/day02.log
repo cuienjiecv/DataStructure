@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\c\day02\day02\test.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  源.cpp
+  正在生成代码...
+  day02.vcxproj -> E:\c\day02\Debug\day02.exe
